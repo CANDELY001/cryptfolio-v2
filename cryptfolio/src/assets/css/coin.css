@@ -1,0 +1,15 @@
+.contenCoin {
+  position: relative;
+  background-color: #18283b;
+  border-radius: 25px;
+  padding-top: 20px;
+  margin-top: 0px;
+  box-shadow: 0px 4px 12px rgba(131, 146, 165, 0.2);
+  height: 95vh;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: #666 #333;
+  overflow-x: hidden;
+  width: 98%;
+  margin: auto;
+}

@@ -1,0 +1,24 @@
+/* Dashboard Styles */
+
+/* Background color and shadow for cards */
+.card {
+  background-color: #18283b;
+  box-shadow: 0px 4px 12px rgba(131, 146, 165, 0.2);
+  border-radius: 25px;
+}
+
+/* Smaller charts */
+.react-chartjs-2 {
+  max-width: 100%;
+}
+
+/* Background color for tables */
+.table {
+  background-color: #18283b;
+  border-radius: 25px;
+}
+
+/* Muted text color */
+.text-muted {
+  color: white;
+}

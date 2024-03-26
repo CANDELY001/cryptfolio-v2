@@ -1,0 +1,30 @@
+custom-select {
+  color: rgb(99, 98, 98); /* Text color */
+}
+
+.custom-option {
+  color: var(--blue); /* Text color */
+  background-color: rgb(99, 98, 98); /* Background color */
+}
+.CardI {
+  background-color: #18283b;
+  color: aliceblue;
+  margin-bottom: 20px;
+  border-radius: 25px;
+}
+
+.tablesorter,
+.tablesorter > th,
+.tablesorter > td,
+.tablesorter > thead > tr > th,
+.tablesorter > tbody > tr > th,
+.tablesorter > thead > tr > td,
+.tablesorter > tbody > tr > td {
+  background-color: #18283b; /* Adjusting the background color for the dark mode table */
+  color: whitesmoke; /* Text color for dark mode */
+  border: transparent;
+  border-bottom: #2b415d;
+}
+.tablesorter > thead > tr > th {
+  color: #3e4146;
+}

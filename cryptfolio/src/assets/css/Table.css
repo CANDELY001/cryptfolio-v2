@@ -1,0 +1,45 @@
+/* Table.css */
+
+.TableH {
+  background-color: #18283b; /* Dark mode background */
+  color: whitesmoke; /* Text color for dark mode */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Adding a shadow for better contrast */
+  border-radius: 25px;
+}
+
+.table-dark,
+.table-dark > th,
+.table-dark > td,
+.table-dark > thead > tr > th,
+.table-dark > tbody > tr > th,
+.table-dark > thead > tr > td,
+.table-dark > tbody > tr > td {
+  background-color: #18283b; /* Adjusting the background color for the dark mode table */
+  color: whitesmoke; /* Text color for dark mode */
+  border: transparent;
+  border-bottom: #2b415d;
+}
+.table-dark > thead > tr > th {
+  color: #4770a6;
+}
+.table-dark > tbody > tr:nth-of-type(odd) > * {
+  background-color: inherit; /* Dark mode background color for even rows */
+}
+.label {
+  border-radius: 3px;
+  padding: 0.3rem;
+  color: white;
+}
+
+/* Define styles for different status labels */
+.label-draft {
+  background-color: #777;
+}
+
+.label-live {
+  background-color: #42a942;
+}
+
+.label-error {
+  background-color: #d9534f; /* Adjusting the background color for the label-error status */
+}
