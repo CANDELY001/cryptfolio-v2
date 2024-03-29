@@ -8,7 +8,6 @@ Cryptfolio is a cryptocurrency portfolio management application designed to help
 - **Market Data Integration**: Stay updated with live cryptocurrency prices and market trends.
 - **Interactive Charts**: Visualize your portfolio performance and analyze historical data with interactive charts.
 - **Customizable Alerts**: Set custom alerts for price changes and market movements to stay informed.
-- **Secure**: Your data is encrypted and securely stored, ensuring the privacy and security of your investments.
 - **User-Friendly Interface**: Intuitive and easy-to-use interface for seamless navigation and user experience.
 
 ## Installation
