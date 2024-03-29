@@ -149,7 +149,7 @@ const User = () => {
           width: isNavOpen ? "90%" : "75%",
         }}
       >
-        {renderSelectedComponent()}
+        {renderSelectedComponent()}{" "}
         <Routes>
           <Route
             path="/user"
