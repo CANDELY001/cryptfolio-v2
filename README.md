@@ -15,13 +15,16 @@ Cryptfolio is a cryptocurrency portfolio management application designed to help
 1. Clone the repository:
    git clone https://github.com/CANDELY001/cryptfolio-v2
 
-2. Install dependencies:
+2. Navigate to the project directory:
+   cd cryptfolio
+
+3. Install dependencies:
    npm install
 
-3. Start the development server:
-   npm start
+4. Start the development server:
+   npm run dev
 
-4. Access the application at `http://localhost:3000` in your web browser.
+5. Access the application at `http://localhost:3000` in your web browser.
 
 ## Technologies Used
 
